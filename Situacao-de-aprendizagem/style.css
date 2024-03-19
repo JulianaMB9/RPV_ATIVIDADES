@@ -1,0 +1,13 @@
+.navbar-brand img {
+    width: 50px;
+    border-radius: 100%;
+}
+
+.carousel-item img {
+    height: 80%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
